@@ -18,6 +18,7 @@ https://planetarycomputer.microsoft.com/docs/overview/ui-codespaces/
 
 ## Data - Analysis, Sources & Tools ## 
 https://lookerstudio.google.com/visualization
+https://docs.jupyter.org/en/latest/start/index.html
 https://planetarycomputer.microsoft.com/explore?c=30.0586%2C29.9930&z=2.00&v=2
 https://github.com/microsoft/PlanetaryComputerExamples/tree/main/tutorials
 
