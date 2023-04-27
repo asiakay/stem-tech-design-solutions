@@ -19,6 +19,11 @@ https://planetarycomputer.microsoft.com/docs/overview/ui-codespaces/
 https://github.com/microsoft/PlanetaryComputerExamples/tree/main/tutorials
 
 
+Data Tools
+https://lookerstudio.google.com/visualization
+
+
+
 https://education.github.com/experiences/hackathon_in_the_cloud
 
 
