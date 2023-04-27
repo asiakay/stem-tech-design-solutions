@@ -14,21 +14,20 @@ Join us on this journey of discovery, and let's unlock the power of STEM togethe
 ////////////
 
 ## Developer Resources ## 
-https://github.com/microsoft/PlanetaryComputerExamples/tree/main/tutorials
 https://planetarycomputer.microsoft.com/docs/overview/ui-codespaces/
 
 ## Data - Analysis, Sources & Tools ## 
 https://lookerstudio.google.com/visualization
+https://planetarycomputer.microsoft.com/explore?c=30.0586%2C29.9930&z=2.00&v=2
+https://github.com/microsoft/PlanetaryComputerExamples/tree/main/tutorials
 
 
-## Technical Project Management ## 
+## Hackathon / Technical Project Management ## 
 https://education.github.com/experiences/hackathon_in_the_cloud
 
 
-Resources 
-https://planetaryeycomputer.microsoft.com/account/request
-https://planetarycomputer.microsoft.com/explore?c=30.0586%2C29.9930&z=2.00&v=2
-
+## STEM <3 Earth ## 
+https://protejaasarvoresgigantes.eco.br/
 
 "The red angelim and other grandiose trees are in the north of Pará, in the State Forest (Flota) of Paru, an area threatened by mining and deforestation.
 Pará alone was responsible for deforesting 351 km² in October, 56% of what was recorded in the entire Amazon. From January to October, almost 10,15 km² of forest were cleared in the Amazon, the equivalent of more than six times the city of São Paulo. It is the second worst accumulated in the last <> years, according to data from Imazon's Deforestation Alert System (SAD).
@@ -37,7 +36,6 @@ Land grabbing, illegal mining and deforestation are invading the territory and p
 #ProtejaAsÁrvoresGigantesee
 
 The Amazon's tallest tree, a red angelim at 88.5 meters, is under threat from mining and deforestation. As land grabbing and illegal activities persist, the region's biodiversity and economy are at risk. #ProtectTheGiantTrees"
-https://protejaasarvoresgigantes.eco.br/
 
 
 
