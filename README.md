@@ -19,11 +19,11 @@ https://planetarycomputer.microsoft.com/docs/overview/ui-codespaces/
 https://github.com/microsoft/PlanetaryComputerExamples/tree/main/tutorials
 
 
-Data Tools
+## Data Tools ## 
 https://lookerstudio.google.com/visualization
 
 
-
+## Technical Project Management ## 
 https://education.github.com/experiences/hackathon_in_the_cloud
 
 
