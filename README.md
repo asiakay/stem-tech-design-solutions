@@ -12,19 +12,22 @@ We invite you to explore our repository, find a project that interests you, and 
 Join us on this journey of discovery, and let's unlock the power of STEM together.
 
 ////////////
-Resources 
-https://planetaryeycomputer.microsoft.com/account/request
-https://planetarycomputer.microsoft.com/explore?c=30.0586%2C29.9930&z=2.00&v=2
-https://planetarycomputer.microsoft.com/docs/overview/ui-codespaces/
+
+## Developer Resources ## 
 https://github.com/microsoft/PlanetaryComputerExamples/tree/main/tutorials
+https://planetarycomputer.microsoft.com/docs/overview/ui-codespaces/
 
-
-## Data Tools ## 
+## Data - Analysis, Sources & Tools ## 
 https://lookerstudio.google.com/visualization
 
 
 ## Technical Project Management ## 
 https://education.github.com/experiences/hackathon_in_the_cloud
+
+
+Resources 
+https://planetaryeycomputer.microsoft.com/account/request
+https://planetarycomputer.microsoft.com/explore?c=30.0586%2C29.9930&z=2.00&v=2
 
 
 "The red angelim and other grandiose trees are in the north of Pará, in the State Forest (Flota) of Paru, an area threatened by mining and deforestation.
